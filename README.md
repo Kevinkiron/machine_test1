@@ -1,4 +1,4 @@
-# machinte_test
+# machine_test
 
 A new Flutter project.
 

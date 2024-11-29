@@ -1,0 +1,1 @@
+ /Users/user/Documents/GitHub/machine_test1/.dart_tool/flutter_build/ba67923b1e284231f348e4e8d64484f5/native_assets.yaml: 

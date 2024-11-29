@@ -1,6 +1,6 @@
 {
-    "name": "machinte_test",
-    "short_name": "machinte_test",
+    "name": "machine_test",
+    "short_name": "machine_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
